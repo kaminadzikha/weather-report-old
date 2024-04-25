@@ -180,7 +180,7 @@ function weatherType(temp) {
 
     // Выбор случайного хобби из списка
     hobbies.forEach(hobby => {
-        weatherType.hobbiesHTML += `<span class="hobby"><a href="">${hobby}</a></span>`;
+        weatherType.hobbiesHTML += `<span class="hobby"><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">${hobby}</a></span>`;
     });
     return weatherType;
 }
